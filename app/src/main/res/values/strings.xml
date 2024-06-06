@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="fp"><u>Forgot Password?</u></string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="signup"><u>Signup !</u></string>
+    <string name="loginhere"><u>Already Registered? Log in here.</u></string>
+    <string name="logged_in_key">logged_in</string>
+    <string name="preference_file_key">com.example.chatgptbdarija.PREFERENCE_FILE_KEY</string>
+</resources>

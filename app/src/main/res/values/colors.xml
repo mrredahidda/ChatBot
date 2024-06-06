@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="midnight_blue">#0E141B</color>
+    <color name="deep_ocean">#223A47</color>
+    <color name="sky_blue">#C2E7FC</color>
+    <color name="slate_blue">#9BAEBC</color>
+    <color name="charcoal">#2C3135</color>
+
+    <color name="rifle_green">#1C2120</color>
+    <color name="dove_gray">#8F8E8E</color>
+    <color name="slate_gray">#4D4C4C</color>
+    <color name="royal_blue">#433A7B</color>
+    <color name="white_smoke">#FBFBFB</color>
+    <color name="deep_arctic_slate">#182126</color>
+    <color name="warning_color">#ED4337</color>
+    <color name="web_color">#181414</color>
+
+</resources>
