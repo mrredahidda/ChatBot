@@ -1,11 +1,18 @@
 # AI Chatbot App
 
-Java-based android Chatbot app powered by gemini api — built from scratch in android studio.
 
-https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/login%20screen.jpg
+Java-based Android chatbot app powered by Gemini API — built from scratch in Android Studio.
 
-https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/sign-up%20screen.jpg
+## Screenshots
 
-https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/chat%20screen.jpg
+### 🔐 Secure & Minimal Login  
+![Login Screen](https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/login%20screen.jpg?raw=true)
 
-https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/profile%20screen.jpg
+### 📝 Streamlined Account Creation  
+![Sign-Up Screen](https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/sign-up%20screen.jpg?raw=true)
+
+### 💬 Real-Time AI Conversations  
+![Chat Screen](https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/chat%20screen.jpg?raw=true)
+
+### 👤 User Profile, Simplified  
+![Profile Screen](https://github.com/mrredahidda/ChatBot/blob/e0648095cd64fede7550e52b72d3b42559f2060f/profile%20screen.jpg?raw=true)
